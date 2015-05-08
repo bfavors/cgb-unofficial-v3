@@ -58,9 +58,11 @@
 
 #include "functions\Pixels\_CaptureRegion.au3"
 #include "functions\Pixels\_ColorCheck.au3"
+#include "functions\Pixels\_ColorCheckTolerance.au3"
 #include "functions\Pixels\GetListPixel.au3"
 #include "functions\Pixels\_GetPixelColor.au3"
 #include "functions\Pixels\_PixelSearch.au3"
+#include "functions\Pixels\_PixelSearchTolerance.au3"
 #include "functions\Pixels\_MultiPixelSearch.au3"
 #include "functions\Pixels\boolPixelSearch.au3"
 
